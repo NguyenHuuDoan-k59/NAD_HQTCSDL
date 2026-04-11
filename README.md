@@ -129,5 +129,6 @@ WHERE hotensv LIKE N'Nguyen%' ;
  <img width="1916" height="1080" alt="{854D74F5-FA91-4CB5-A200-FBBC5CB0736A}" src="https://github.com/user-attachments/assets/cb0af4ce-2099-450a-b830-27681ddb2ac6" />
 
 17. upload file dulieu.sql lên github repository của em (repository mà em đang edit file README.md)ository
+<img width="1920" height="1080" alt="{4D427CC8-C27F-406D-9C0D-0B0AD5C541D6}" src="https://github.com/user-attachments/assets/7a848111-5fdd-497a-9fac-0f9994b00cae" />
 
 
