@@ -1,18 +1,14 @@
 USE master
 GO
-
 IF DB_ID('QLSV') IS NOT NULL
 BEGIN
     DROP DATABASE QLSV
 END
 GO
-
 CREATE DATABASE QLSV
 GO
-
 USE QLSV
 GO
-
 CREATE TABLE SinhVien(
     masv varchar(20) PRIMARY KEY,
     hotensv nvarchar(100),
