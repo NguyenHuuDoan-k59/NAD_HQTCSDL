@@ -3,7 +3,6 @@ Họ & tên: Nguyễn Hữu Doan
 **Lớp: K59KMT.K01**  
 **MSSV: K235480106008**  
 ---
-
 1. Download và cài đặt SQL Server 2025
 <img width="1920" height="1080" alt="{FD172F3E-B494-42F7-A40D-325EAB1B065A}" src="https://github.com/user-attachments/assets/d29ea86b-162c-4467-95b5-4d422d56c1a9" />
 
